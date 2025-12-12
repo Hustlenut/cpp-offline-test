@@ -1,1 +1,4 @@
 common --enable_bzlmod
+common --registry=file:///home/huyxuan/bazel8/bazel-central-registry
+common --repository_cache=/home/huyxuan/bazel8/bazel-offline/packages
+
